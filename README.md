@@ -1,6 +1,6 @@
 👋 Hi, I'm Pawan Simha
 
-I'm a Computer Science enthusiast driven by logic, structured thinking, and evidence-based learning. I enjoy understanding how systems work beneath the surface — whether it’s machine learning models, software architecture, or product strategy. My long-term goal is to grow into a Machine Learning Engineer and eventually transition into product leadership, where technology meets strategic decision-making.
+I'm a Computer Science enthusiast driven by logic, structured thinking, and evidence-based learning. I enjoy understanding how systems work beneath the surface, whether it’s machine learning models, software architecture, or product strategy. My long-term goal is to grow into a Machine Learning Engineer and eventually transition into product leadership, where technology meets strategic decision-making.
 
 🎓 What I’m Doing
 I’m currently pursuing a Master of Computer Applications (MCA) in Bangalore at Sapthagiri NPS University.

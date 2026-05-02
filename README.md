@@ -1,20 +1,20 @@
-👋 Hi, I'm Pawan Simha
+Pawan Simha R
+Computer Science Postgrad | Aspiring AI Product Manager
+I am a logic-driven and pragmatic developer and researcher currently pursuing my Master of Computer Applications (MCA) at Sapthagiri NPS University, Bangalore. My approach to technology is rooted in structured thinking and evidence-based learning, focusing on the intersection of scalable software architecture and machine learning.
 
-I’m a Computer Science postgraduate student driven by logic, structured thinking, and evidence-based learning.
-I enjoy breaking down complex systems to understand how they work at their core — from machine learning models to scalable software architectures.
+Technical Focus
+Artificial Intelligence: Machine Learning model development and data-driven problem solving.
+Product Strategy: Bridging technical implementation with UI/UX design and product intuition.
 
-Currently pursuing my MCA at Sapthagiri NPS University, Bangalore.
+Technical Stack
+Languages: Python, Java, NoSQL, JavaScript, Tailwind.
+Frameworks & Libraries: React, Node.js, Scikit-Learn, TensorFlow, OpenCV.
+Design & Tools: Affinity, Canva, Git, Docker.
 
-My core interests include:
-• 🤖 Machine Learning & AI
-• 💻 Software & Web Development
-• 🧠 Data Structures & Algorithms
-• 🎨 UI/UX Design & Product Thinking
+Professional Objectives
+My long-term career path is focused on mastering Machine Learning Engineering to build a deep technical foundation. I intend to leverage this expertise to transition into AI Product Leadership, where I can align complex technological capabilities with strategic business goals and user needs.
 
-I focus on building both strong engineering depth and sharp product intuition, and to become an AI product Manager.
-I actively work on projects that combine technical implementation with real-world problem-solving.
-
-My long-term goal is to become a Machine Learning Engineer and eventually grow into AI Product Leadership — where technology meets strategy.
-
-📧 Email: iampawansimha.2004@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/pawansimha/
+Contact and Portfolio
+LinkedIn: linkedin.com/in/pawansimha
+Email: iampawansimha.2004@gmail.com
+Location: Bangalore, India

@@ -1,10 +1,20 @@
 # Pawan Simha R
 **MCA @ Sapthagiri NPS University | AI & Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawansimha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c0ff00?style=flat-square&logo=vercel&logoColor=black)](https://myportfolio-pawansimha.vercel.app/)
-[![G.dev](https://img.shields.io/badge/G.dev-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/pawansimha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iampawansimha.2004@gmail.com)
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/9108dded-855b-466a-b261-0a7519d472cf">
+    <img src="https://img.shields.io/badge/-Google%20Skills-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://myportfolio-pawansimha.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://g.dev/pawansimha">
+    <img src="https://img.shields.io/badge/-G.dev-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  </a>
+  <a href="mailto:iampawansimha.2004@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 I build systems at the intersection of **software engineering** and **machine learning** — turning complex problems into practical, scalable solutions.
 

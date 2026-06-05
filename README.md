@@ -1,117 +1,69 @@
 # Pawan Simha R
 
-### AI Engineer • Full-Stack Developer • Product-Oriented Builder
-
-I build intelligent systems and scalable software products that combine machine learning, automation, and modern web technologies.
+### MCA @ Sapthagiri NPS University • AI & Full-Stack Developer
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/9108dded-855b-466a-b261-0a7519d472cf">
-    <img src="https://img.shields.io/badge/Google%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://myportfolio-pawansimha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://g.dev/pawansimha">
-    <img src="https://img.shields.io/badge/G.dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/G.dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="mailto:iampawansimha.2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+Building at the intersection of **AI, Machine Learning, and Software Engineering** — focused on creating practical, scalable products.
 
-## About Me
+## About
 
-* 🎓 MCA Student at **Sapthagiri NPS University**
-* 🤖 Focused on **Artificial Intelligence, Machine Learning, and Product Development**
-* 🏗 Building production-ready applications with **Python, Java, TypeScript, and Next.js**
-* 📈 Interested in **ML Engineering, AI Products, System Design, and Product Strategy**
-* 🌍 Based in Bangalore, India
+🎓 MCA (2025–2027) @ Sapthagiri NPS University
+📍 Bangalore, India
+🤖 AI/ML Engineer → AI Product Manager
+🌱 Exploring LLMs, System Design, Product Strategy & ML Deployment
 
----
+## Tech Stack
 
-## Core Expertise
+**Languages:** Python • Java • JavaScript • TypeScript • Kotlin • C++ • SQL
 
-### Artificial Intelligence & Data
+**Frontend:** Next.js • React • Tailwind CSS • Jetpack Compose
 
-`TensorFlow` • `scikit-learn` • `OpenCV` • `dlib` • `XGBoost` • `LightGBM` • `CatBoost` • `NumPy` • `Pandas`
+**Backend:** FastAPI • Flask • Spring • Django • Node.js • REST APIs
 
-### Backend Engineering
+**AI/ML:** TensorFlow • scikit-learn • OpenCV • dlib • XGBoost • LightGBM • CatBoost
 
-`FastAPI` • `Flask` • `Spring Boot` • `Node.js` • `Django` • `REST APIs`
+**Data:** PostgreSQL • MongoDB • Pandas • NumPy • Power BI
 
-### Frontend & Mobile
-
-`Next.js` • `React` • `Tailwind CSS` • `Jetpack Compose`
-
-### Infrastructure
-
-`Docker` • `Git` • `PostgreSQL` • `MongoDB` • `JWT`
-
----
+**Tools:** Docker • Git • JWT • Android SDK • SMOTE
 
 ## Featured Projects
 
-### ReuniteAI
-
-Biometric face-recognition platform for missing-person identification powered by dlib's deep residual network.
-
-**99.38% recognition accuracy**
-
-### ChurnGuard
-
-Ensemble machine-learning system using XGBoost, LightGBM, and CatBoost for telecom churn prediction with Power BI analytics.
-
-### CampusDrive
-
-AI-powered academic collaboration platform integrating Google Gemini with a perfect audit score.
-
-### Hagrid!
-
-Privacy-first Android ad silencer built with a zero-network architecture.
-
-### SheGlam
-
-Full-stack e-commerce marketplace featuring JWT authentication and containerized deployment.
-
----
+| Project                  | Description                                                                            |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| **ReuniteAI**            | Missing-person identification using dlib's deep residual network (**99.38% accuracy**) |
+| **ChurnGuard**           | Telecom churn prediction using XGBoost, LightGBM & CatBoost with Power BI              |
+| **CampusDrive**          | AI-powered academic platform integrating Google Gemini (**100/100 audit score**)       |
+| **Hagrid!**              | Universal Android ad silencer with zero-network footprint                              |
+| **SheGlam**              | Full-stack marketplace with JWT authentication & Docker deployment                     |
+| **Hagrid Utility Suite** | 15+ localized developer and security tools                                             |
 
 ## Experience
 
-### AI & Machine Learning Intern
-
-**Netcraftz** • Feb 2025 – May 2025
-
-Applied machine learning techniques, data preprocessing pipelines, and model evaluation workflows for real-world business problems.
-
-### Storyboard Director & Costume Designer
-
-**Suram Movies Private Limited** • Aug 2025 – Nov 2025
-
-Led visual planning, creative direction, and production design activities.
-
----
+| Role                                   | Organization           | Duration            |
+| -------------------------------------- | ---------------------- | ------------------- |
+| AI & Machine Learning Intern           | Netcraftz              | Feb 2025 – May 2025 |
+| Storyboard Director & Costume Designer | Suram Movies Pvt. Ltd. | Aug 2025 – Nov 2025 |
 
 ## Certifications
 
-**54+ Certifications**
+**54+ certifications** from Google, IBM, Cisco, Intel, Anthropic & OpenAI covering AI, Cloud, Data Science, Security, and Product Management.
 
-Google • IBM • Cisco • Intel • OpenAI • Anthropic
-
-➡️ **View Complete Credential Portfolio**
-https://myportfolio-pawansimha.vercel.app/certificates
+➡️ **Certificates:** https://myportfolio-pawansimha.vercel.app/certificates
 
 ---
 
-## Current Focus
-
-* Large Language Models (LLMs)
-* ML Model Deployment
-* AI Product Management
-* Scalable Backend Systems
-* System Architecture
-
----
-
-> Building AI systems that are practical, scalable, and useful.
+*"Building intelligent systems that solve real-world problems."*

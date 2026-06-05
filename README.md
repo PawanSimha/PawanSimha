@@ -1,7 +1,7 @@
 # Pawan Simha R
 
 ### MCA @ Sapthagiri NPS University • AI & Full-Stack Developer
-Building at the intersection of **AI, Machine Learning, and Software Engineering** — focused on creating practical, scalable products.
+Building at the intersection of **AI, Machine Learning, and Software Engineering** - focused on creating practical, scalable products.
 
 ## About
 

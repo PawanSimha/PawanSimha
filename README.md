@@ -13,15 +13,10 @@ Building at the intersection of **AI, Machine Learning, and Software Engineering
 ## Tech Stack
 
 **Languages:** Python • Java • JavaScript • TypeScript • Kotlin • C++ • SQL
-
 **Frontend:** Next.js • React • Tailwind CSS • Jetpack Compose
-
 **Backend:** FastAPI • Flask • Spring • Django • Node.js • REST APIs
-
 **AI/ML:** TensorFlow • scikit-learn • OpenCV • dlib • XGBoost • LightGBM • CatBoost
-
 **Data:** PostgreSQL • MongoDB • Pandas • NumPy • Power BI
-
 **Tools:** Docker • Git • JWT • Android SDK • SMOTE
 
 ## Featured Projects

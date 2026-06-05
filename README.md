@@ -1,22 +1,6 @@
 # Pawan Simha R
 
 ### MCA @ Sapthagiri NPS University • AI & Full-Stack Developer
-
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/9108dded-855b-466a-b261-0a7519d472cf">
-    <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://myportfolio-pawansimha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://g.dev/pawansimha">
-    <img src="https://img.shields.io/badge/G.dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="mailto:iampawansimha.2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 Building at the intersection of **AI, Machine Learning, and Software Engineering** — focused on creating practical, scalable products.
 
 ## About

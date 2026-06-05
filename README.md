@@ -55,8 +55,4 @@
 **54+ certifications** from Google, IBM, Cisco, Intel, Anthropic & OpenAI covering AI, Cloud, Data Science, Security, and Product Management.
 🔗 **Verify Certificates:** [myportfolio-pawansimha.vercel.app/certificates](https://myportfolio-pawansimha.vercel.app/certificates)
 ---
-> *"Building intelligent systems that solve real-world problems."*
 
-
-
-redesign as i will add it to disply this in my git hub profile

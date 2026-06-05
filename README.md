@@ -1,66 +1,117 @@
 # Pawan Simha R
-**MCA @ Sapthagiri NPS University | AI & Full-Stack Developer**
+
+### AI Engineer • Full-Stack Developer • Product-Oriented Builder
+
+I build intelligent systems and scalable software products that combine machine learning, automation, and modern web technologies.
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/9108dded-855b-466a-b261-0a7519d472cf">
-    <img src="https://img.shields.io/badge/-Google%20Skills-4285F4?style=flat-square&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
-  <a href="https://myportfolio-pawansimha.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://myportfolio-pawansimha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://g.dev/pawansimha">
-    <img src="https://img.shields.io/badge/-G.dev-4285F4?style=flat-square&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/G.dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="mailto:iampawansimha.2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-I build systems at the intersection of **software engineering** and **machine learning** — turning complex problems into practical, scalable solutions.
+---
+
+## About Me
+
+* 🎓 MCA Student at **Sapthagiri NPS University**
+* 🤖 Focused on **Artificial Intelligence, Machine Learning, and Product Development**
+* 🏗 Building production-ready applications with **Python, Java, TypeScript, and Next.js**
+* 📈 Interested in **ML Engineering, AI Products, System Design, and Product Strategy**
+* 🌍 Based in Bangalore, India
 
 ---
 
-### Technical Stack
+## Core Expertise
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, Java, JavaScript, TypeScript, C++, Kotlin, SQL |
-| **Frontend** | Next.js, React, Tailwind CSS, Jetpack Compose |
-| **Backend** | Flask, FastAPI, Node.js, Spring, Django, REST APIs |
-| **AI/ML** | TensorFlow, scikit-learn, OpenCV, dlib, XGBoost, LightGBM, CatBoost |
-| **Data & BI** | MongoDB, PostgreSQL, Power BI, NumPy, Pandas |
-| **Tools** | Git, Docker, JWT, SMOTE, Android SDK |
+### Artificial Intelligence & Data
 
-### Featured Projects
+`TensorFlow` • `scikit-learn` • `OpenCV` • `dlib` • `XGBoost` • `LightGBM` • `CatBoost` • `NumPy` • `Pandas`
 
-- **ReuniteAI** — Biometric face recognition system using dlib's deep residual network achieving 99.38% accuracy for missing person identification.
-- **ChurnGuard** — Ensemble ML engine (XGBoost, LightGBM, CatBoost) for telecom churn prediction with interactive Power BI dashboards.
-- **CampusDrive** — AI-powered academic collaboration platform with Google Gemini API integration, scoring 100/100 audit.
-- **Hagrid!** — Universal Android ad silencer with zero-network footprint and perfect audit score.
-- **SheGlam** — Full-stack marketplace with JWT auth and Docker deployment.
-- **Hagrid Utility Suite** — 15+ localized developer tools for image processing and security.
+### Backend Engineering
 
-### Currently
+`FastAPI` • `Flask` • `Spring Boot` • `Node.js` • `Django` • `REST APIs`
 
-- 🎓 Pursuing **MCA** at Sapthagiri NPS University (2025–2027)
-- 🔭 Building production-grade applications with Next.js, Python, and Java
-- 🌱 Deepening expertise in ML model deployment, product strategy, and system architecture
-- 👯 Open to collaboration on AI projects, full-stack platforms, and developer tooling
+### Frontend & Mobile
 
-### Certifications
+`Next.js` • `React` • `Tailwind CSS` • `Jetpack Compose`
 
-54 credentials from **Google, CISCO, IBM, Anthropic, Intel, OpenAI** — spanning AI, Cloud Security, Data Science, and Product Management. [View all →](https://myportfolio-pawansimha.vercel.app/certificates)
+### Infrastructure
 
-### Experience
+`Docker` • `Git` • `PostgreSQL` • `MongoDB` • `JWT`
 
-| Role | Company | Period |
-|------|---------|--------|
-| Storyboard Director & Costume Designer | Suram Movies Private Limited | Aug–Nov 2025 |
-| AI & Machine Learning Intern | Netcraftz | Feb–May 2025 |
+---
 
-### Connect
+## Featured Projects
 
-- **Portfolio**: [myportfolio-pawansimha.vercel.app](https://myportfolio-pawansimha.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/pawansimha](https://www.linkedin.com/in/pawansimha/)
-- **Email**: iampawansimha.2004@gmail.com
-- **Location**: Bangalore, India
+### ReuniteAI
+
+Biometric face-recognition platform for missing-person identification powered by dlib's deep residual network.
+
+**99.38% recognition accuracy**
+
+### ChurnGuard
+
+Ensemble machine-learning system using XGBoost, LightGBM, and CatBoost for telecom churn prediction with Power BI analytics.
+
+### CampusDrive
+
+AI-powered academic collaboration platform integrating Google Gemini with a perfect audit score.
+
+### Hagrid!
+
+Privacy-first Android ad silencer built with a zero-network architecture.
+
+### SheGlam
+
+Full-stack e-commerce marketplace featuring JWT authentication and containerized deployment.
+
+---
+
+## Experience
+
+### AI & Machine Learning Intern
+
+**Netcraftz** • Feb 2025 – May 2025
+
+Applied machine learning techniques, data preprocessing pipelines, and model evaluation workflows for real-world business problems.
+
+### Storyboard Director & Costume Designer
+
+**Suram Movies Private Limited** • Aug 2025 – Nov 2025
+
+Led visual planning, creative direction, and production design activities.
+
+---
+
+## Certifications
+
+**54+ Certifications**
+
+Google • IBM • Cisco • Intel • OpenAI • Anthropic
+
+➡️ **View Complete Credential Portfolio**
+https://myportfolio-pawansimha.vercel.app/certificates
+
+---
+
+## Current Focus
+
+* Large Language Models (LLMs)
+* ML Model Deployment
+* AI Product Management
+* Scalable Backend Systems
+* System Architecture
+
+---
+
+> Building AI systems that are practical, scalable, and useful.

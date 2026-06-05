@@ -23,14 +23,17 @@
 * **🌱 Current Focus:** Exploring LLMs, System Design, Product Strategy & ML Deployment
 ---
 ## 🛠️ Tech Stack
-> ### 💻 Languages
-> Python • Java • JavaScript • TypeScript • Kotlin • C++ • SQL
-> 
-> ### 🧠 AI/ML & Data
-> TensorFlow • scikit-learn • OpenCV • dlib • XGBoost • LightGBM • CatBoost • PostgreSQL • MongoDB • Pandas • NumPy • Power BI
-> 
-> ### ⚙️ Frameworks & Tools
-> Next.js • React • Tailwind CSS • Jetpack Compose • FastAPI • Flask • Spring • Django • Node.js • REST APIs • Docker • Git • JWT • Android SDK • SMOTE
+
+| Domain        | Stack                                                               |
+| ------------- | ------------------------------------------------------------------- |
+| **Languages** | Python, Java, JavaScript, TypeScript, Kotlin, C++, SQL              |
+| **AI/ML**     | TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, dlib |
+| **Frontend**  | React, Next.js, Tailwind CSS                                        |
+| **Backend**   | FastAPI, Flask, Django, Spring Boot, Node.js                        |
+| **Mobile**    | Android SDK, Jetpack Compose                                        |
+| **Databases** | PostgreSQL, MongoDB                                                 |
+| **Tools**     | Docker, Git, Power BI, JWT, REST APIs, SMOTE                        |
+
 ---
 ## 💻 Featured Projects
 | Project | Description |

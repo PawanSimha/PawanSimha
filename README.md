@@ -1,13 +1,13 @@
 <div align="center">
 
-```text
+<pre>
 ██████╗  █████╗ ██╗    ██╗ █████╗ ███╗   ██╗    ███████╗██╗███╗   ███╗██╗  ██╗ █████╗     ██████╗
 ██╔══██╗██╔══██╗██║    ██║██╔══██╗████╗  ██║    ██╔════╝██║████╗ ████║██║  ██║██╔══██╗    ██╔══██╗
 ██████╔╝███████║██║ █╗ ██║███████║██╔██╗ ██║    ███████╗██║██╔████╔██║███████║███████║    ██████╔╝
 ██╔═══╝ ██╔══██║██║███╗██║██╔══██║██║╚██╗██║    ╚════██║██║██║╚██╔╝██║██╔══██║██╔══██║    ██╔══██╗
 ██║     ██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║    ███████║██║██║ ╚═╝ ██║██║  ██║██║  ██║    ██║  ██║
 ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝
-```
+</pre>
 
 ### `> Building intelligent systems that solve real-world problems_`
 
@@ -37,26 +37,40 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • Java • JavaScript • TypeScript • Kotlin • C++ • SQL
-
-**AI/ML**
-TensorFlow • Scikit-learn • XGBoost • LightGBM • CatBoost • OpenCV • dlib
-
-**Frontend**
-React • Next.js • Tailwind CSS
-
-**Backend**
-FastAPI • Flask • Django • Spring Boot • Node.js
-
-**Mobile**
-Android SDK • Jetpack Compose
-
-**Databases**
-PostgreSQL • MongoDB
-
-**Tools**
-Docker • Git • Power BI • JWT • REST APIs • SMOTE
+<table align="center">
+  <tr>
+    <th>Domain</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, Java, JavaScript, TypeScript, Kotlin, C++, SQL</td>
+  </tr>
+  <tr>
+    <td><b>AI/ML</b></td>
+    <td>TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, dlib</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>FastAPI, Flask, Django, Spring Boot, Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>Android SDK, Jetpack Compose</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>PostgreSQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Docker, Git, Power BI, JWT, REST APIs, SMOTE</td>
+  </tr>
+</table>
 
 </div>
 
@@ -66,29 +80,36 @@ Docker • Git • Power BI • JWT • REST APIs • SMOTE
 
 ## 💻 Featured Projects
 
-### ReuniteAI
-
-Missing-person identification using dlib's deep residual network (**99.38% accuracy**)
-
-### ChurnGuard
-
-Telecom churn prediction using XGBoost, LightGBM & CatBoost with Power BI
-
-### CampusDrive
-
-AI-powered academic platform integrating Google Gemini (**100/100 audit score**)
-
-### Hagrid!
-
-Universal Android ad silencer with zero-network footprint
-
-### SheGlam
-
-Full-stack marketplace with JWT authentication & Docker deployment
-
-### Hagrid Utility Suite
-
-15+ localized developer and security tools
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>ReuniteAI</b></td>
+    <td>Missing-person identification using dlib's deep residual network (<b>99.38% accuracy</b>)</td>
+  </tr>
+  <tr>
+    <td><b>ChurnGuard</b></td>
+    <td>Telecom churn prediction using XGBoost, LightGBM & CatBoost with Power BI</td>
+  </tr>
+  <tr>
+    <td><b>CampusDrive</b></td>
+    <td>AI-powered academic platform integrating Google Gemini (<b>100/100 audit score</b>)</td>
+  </tr>
+  <tr>
+    <td><b>Hagrid!</b></td>
+    <td>Universal Android ad silencer with zero-network footprint</td>
+  </tr>
+  <tr>
+    <td><b>SheGlam</b></td>
+    <td>Full-stack marketplace with JWT authentication & Docker deployment</td>
+  </tr>
+  <tr>
+    <td><b>Hagrid Utility Suite</b></td>
+    <td>15+ localized developer and security tools</td>
+  </tr>
+</table>
 
 </div>
 
@@ -98,11 +119,23 @@ Full-stack marketplace with JWT authentication & Docker deployment
 
 ## 💼 Experience
 
-**AI & Machine Learning Intern**
-Netcraftz • Feb 2025 – May 2025
-
-**Storyboard Director & Costume Designer**
-Suram Movies Pvt. Ltd. • Aug 2025 – Nov 2025
+<table align="center">
+  <tr>
+    <th>Role</th>
+    <th>Organization</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>AI & Machine Learning Intern</td>
+    <td>Netcraftz</td>
+    <td>Feb 2025 – May 2025</td>
+  </tr>
+  <tr>
+    <td>Storyboard Director & Costume Designer</td>
+    <td>Suram Movies Pvt. Ltd.</td>
+    <td>Aug 2025 – Nov 2025</td>
+  </tr>
+</table>
 
 </div>
 
@@ -119,6 +152,7 @@ Google • IBM • Cisco • Intel • Anthropic • OpenAI
 Covering AI, Cloud, Data Science, Security, and Product Management
 
 🔗 **Verify Certificates**
+
 https://portfolio-pawansimha.vercel.app/#certifications
 
 </div>

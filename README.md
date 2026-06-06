@@ -52,7 +52,7 @@
 | **Storyboard Director & Costume Designer** | Suram Movies Pvt. Ltd. | Aug 2025 – Nov 2025 |
 ---
 ## 🏅 Certifications
-**54+ certifications** from Google, IBM, Cisco, Intel, Anthropic & OpenAI covering AI, Cloud, Data Science, Security, and Product Management.
-🔗 **Verify Certificates:** [myportfolio-pawansimha.vercel.app/certificates](https://myportfolio-pawansimha.vercel.app/certificates)
+*54+ certifications* from Google, IBM, Cisco, Intel, Anthropic & OpenAI covering AI, Cloud, Data Science, Security, and Product Management.
+🔗 *Verify Certificates:* [myportfolio-pawansimha.vercel.app/certificates](https://portfolio-pawansimha.vercel.app/#certifications)
 ---
 

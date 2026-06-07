@@ -21,8 +21,6 @@
 
 ## Overview
 
-🎓 **Education:** MCA (2025–2027) @ Sapthagiri NPS University
-
 📍 **Location:** Bangalore, India
 
 🤖 **Career Focus:** AI/ML Engineer → AI Product Manager

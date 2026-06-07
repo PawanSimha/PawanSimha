@@ -149,8 +149,6 @@ Google • IBM • Cisco • Intel • Anthropic • OpenAI
 
 Covering AI, Cloud, Data Science, Security, and Product Management
 
-🔗 **Verify Certificates**
-
-https://portfolio-pawansimha.vercel.app/#certifications
+🔗 **Verify Certificates:** https://portfolio-pawansimha.vercel.app/#certifications
 
 </div>

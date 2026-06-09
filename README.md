@@ -11,7 +11,7 @@
 
 ### `> Building intelligent systems that solve real-world problems_`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=15\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&multiline=true\&width=600\&height=60\&lines=MCA+%40+Sapthagiri+NPS+University+%E2%80%A2+2025%E2%80%932027;AI%2FML+Engineer+%E2%86%92+AI+Product+Manager+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=15\&duration=3000\&pause=1000\&color=D3D81C\&center=true\&vCenter=true\&multiline=true\&width=600\&height=60\&lines=MCA+%40+Sapthagiri+NPS+University+%E2%80%A2+2025%E2%80%932027;AI%2FML+Engineer+%E2%86%92+AI+Product+Manager+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 

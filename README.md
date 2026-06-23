@@ -17,138 +17,43 @@
 
 ---
 
-<div align="center">
-
-## Overview
-
-📍 **Location:** Bangalore, India
-
-🤖 **Career Focus:** AI/ML Engineer → AI Product Manager
-
-🌱 **Current Focus:** Exploring LLMs, System Design, Product Strategy & ML Deployment
-
-</div>
+# Hi there, I'm Pawan Simha 👋
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <th>Domain</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, Java, JavaScript, TypeScript, Kotlin, C++, SQL</td>
-  </tr>
-  <tr>
-    <td><b>AI/ML</b></td>
-    <td>TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, dlib</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React, Next.js, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>FastAPI, Flask, Django, Spring Boot, Node.js</td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>Android SDK, Jetpack Compose</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>PostgreSQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Docker, Git, Power BI, JWT, REST APIs, SMOTE</td>
-  </tr>
-</table>
-
-</div>
+### 📍 Bangalore, India | 🤖 AI/ML Engineer → AI Product Manager
+**Current Focus:** Exploring LLMs, System Design, Product Strategy & ML Deployment
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack & Capabilities
 
-## 💻 Featured Projects
-
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>ReuniteAI</b></td>
-    <td>Missing-person identification using dlib's deep residual network (<b>99.38% accuracy</b>)</td>
-  </tr>
-  <tr>
-    <td><b>ChurnGuard</b></td>
-    <td>Telecom churn prediction using XGBoost, LightGBM & CatBoost with Power BI</td>
-  </tr>
-  <tr>
-    <td><b>CampusDrive</b></td>
-    <td>AI-powered academic platform integrating Google Gemini (<b>100/100 audit score</b>)</td>
-  </tr>
-  <tr>
-    <td><b>Hagrid!</b></td>
-    <td>Universal Android ad silencer with zero-network footprint</td>
-  </tr>
-  <tr>
-    <td><b>SheGlam</b></td>
-    <td>Full-stack marketplace with JWT authentication & Docker deployment</td>
-  </tr>
-  <tr>
-    <td><b>Hagrid Utility Suite</b></td>
-    <td>15+ localized developer and security tools</td>
-  </tr>
-</table>
-
-</div>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI / ML** | TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, dlib, SMOTE |
+| **Backend** | FastAPI, Flask, Django, Spring Boot, Node.js, REST APIs, JWT |
+| **Frontend & Mobile** | React, Next.js, Tailwind CSS | Android SDK, Jetpack Compose |
+| **Languages** | Python, Java, JavaScript, TypeScript, Kotlin, C++, SQL |
+| **Data & Tools** | PostgreSQL, MongoDB | Docker, Git, Power BI |
 
 ---
 
-<div align="center">
+### 💻 Featured Projects
 
-## 💼 Experience
-
-<table align="center">
-  <tr>
-    <th>Role</th>
-    <th>Organization</th>
-    <th>Duration</th>
-  </tr>
-  <tr>
-    <td>AI & Machine Learning Intern</td>
-    <td>Netcraftz</td>
-    <td>Feb 2025 – May 2025</td>
-  </tr>
-  <tr>
-    <td>Storyboard Director & Costume Designer</td>
-    <td>Suram Movies Pvt. Ltd.</td>
-    <td>Aug 2025 – Nov 2025</td>
-  </tr>
-</table>
-
-</div>
+* **ReuniteAI** – Missing-person identification using dlib's deep residual network (**99.38% accuracy**).
+* **ChurnGuard** – Telecom churn prediction using XGBoost, LightGBM & CatBoost with Power BI dashboards.
+* **CampusDrive** – AI-powered academic platform integrating Google Gemini (**100/100 Lighthouse audit score**).
+* **Hagrid!** – Universal Android ad silencer featuring a zero-network, privacy-first footprint.
+* **SheGlam** – Full-stack e-commerce marketplace with secure JWT auth and Docker deployment.
+* **Hagrid Utility Suite** – Collection of 15+ localized developer and security automation tools.
 
 ---
 
-<div align="center">
+### 💼 Experience & 🏅 Certifications
 
-## 🏅 Certifications
+| Experience | Certifications (54+) |
+| :--- | :--- |
+| **AI & Machine Learning Intern** @ Netcraftz <br> `Feb 2025 – May 2025` | **Industry Leaders:** Google • IBM • Cisco • Intel • Anthropic • OpenAI |
+| **Storyboard Director & Costume Designer** @ Suram Movies <br> `Aug 2025 – Nov 2025` | **Domains:** AI, Cloud, Data Science, Security, & Product Management <br> 🔗 [**Verify Certificates**](https://portfolio-pawansimha.vercel.app/#certifications) |
 
-**54+ Certifications**
-
-Google • IBM • Cisco • Intel • Anthropic • OpenAI
-
-Covering AI, Cloud, Data Science, Security, and Product Management
-
-🔗 **Verify Certificates:** https://portfolio-pawansimha.vercel.app/#certifications
-
-</div>
+---

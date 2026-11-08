@@ -15,10 +15,7 @@
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=5000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&height=30&lines=Intern+%40+Conneqtion+Group)](https://git.io/typing-svg)<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=5000&pause=1000&color=18C918&center=true&vCenter=true&width=600&height=30&lines=MCA+%40+Sapthagiri+NPS+University+%E2%80%A2+2025%E2%80%932027)](https://git.io/typing-svg)<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=5000&pause=1000&color=18C918&center=true&vCenter=true&width=600&height=30&lines=AI%2FML+Engineer+%E2%86%92+Oracle+Services+Expert+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </p>
 

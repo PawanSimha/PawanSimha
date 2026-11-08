@@ -11,9 +11,16 @@
 
 ### `> Building intelligent systems that solve real-world problems_`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono%26weight=500%26size=15%26duration=3000%26pause=1000%26color=D9D9D9%26center=true%26vCenter=true%26width=600%26height=30%26lines=Intern+%40+Conneqtion+Group)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono%26weight=500%26size=15%26duration=3000%26pause=1000%26color=18C918%26center=true%26vCenter=true%26width=600%26height=30%26lines=MCA+%40+Sapthagiri+NPS+University+%E2%80%A2+2025%E2%80%932027)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=D9D9D9&center=true&vCenter=true&width=600&height=30&lines=Intern+%40+Conneqtion+Group)](https://git.io/typing-svg)<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=18C918&center=true&vCenter=true&width=600&height=30&lines=MCA+%40+Sapthagiri+NPS+University+%E2%80%A2+2025%E2%80%932027)](https://git.io/typing-svg)<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=18C918&center=true&vCenter=true&width=600&height=30&lines=AI%2FML+Engineer+%E2%86%92+AI+Product+Manager+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</p>
 
 </div>
 

@@ -23,52 +23,9 @@
 
 📍 **Location:** Bangalore, India
 
-🤖 **Career Focus:** AI/ML Engineer → AI Product Manager
+🤖 **Career Focus:** Intern -> FDE -> Product Manager -> Thinking?
 
-🌱 **Current Focus:** Exploring LLMs, System Design, Product Strategy & ML Deployment
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <th>Domain</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, Java, JavaScript, TypeScript, Kotlin, C++, SQL</td>
-  </tr>
-  <tr>
-    <td><b>AI/ML</b></td>
-    <td>TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, dlib</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React, Next.js, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>FastAPI, Flask, Django, Spring Boot, Node.js</td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>Android SDK, Jetpack Compose</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>PostgreSQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Docker, Git, Power BI, JWT, REST APIs, SMOTE</td>
-  </tr>
-</table>
+🌱 **Current Focus:** Exploring LLMs, System Design, Oracle OCI, APEX, Agentic Automation
 
 </div>
 
@@ -82,6 +39,10 @@
   <tr>
     <th>Project</th>
     <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>QSPARK</b></td>
+    <td>Smart Parking Slot booking System using JAVA and SQL</td>
   </tr>
   <tr>
     <td><b>ReuniteAI</b></td>
